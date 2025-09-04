@@ -1,0 +1,2 @@
+# StackrTrackr
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/206633ac1c354e5bb8703d27b069e0ac)](https://app.codacy.com/gh/Lonnie-Bruton/StackrTrackr?utm_source=github.com&utm_medium=referral&utm_content=Lonnie-Bruton/StackrTrackr&utm_campaign=Badge_Grade)
